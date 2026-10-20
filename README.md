@@ -24,3 +24,4 @@ The purpose of this project is to practice my C++ programming skills, especially
 ## About the Developer
 
 I am a beginner programmer and BSIT student learning C++. Suggestions and constructive feedback are welcome!
+Learning Git and GitHub with VS Code!
